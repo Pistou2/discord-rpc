@@ -1,3 +1,17 @@
+# POC for Robocraft
+This is just a fork from [Discord's original repository](https://github.com/discordapp/discord-rpc), with the "button-clicker" example changed to add some examples that could fit Robocraft
+
+It's poorly implemented, sorry for that, but the idea is at least here I guess XwX
+
+## Application
+
+I simply created an application [on Discord's applications page](https://discordapp.com/developers/applications/me) that I called "Robocraft", I enabled the Rich Presence, and I uploaded as assets all the image that I needed (Images poorly made, too, but you can get them [here](https://cdn.discordapp.com/attachments/237276456022048778/378867541671673856/images_rpc.zip) if you want to do some testing)
+
+I then copied the Client ID and used it as the "Application ID" in Unity
+
+...And the following is the original content of the Readme
+
+-----
 # Discord RPC
 
 This is a lib and quick demos that implement the very minimal subset to show current status, and
